@@ -1,0 +1,144 @@
+{
+  "home": "Home",
+  "services": "Services",
+  "reviews": "Reviews",
+  "about": "About",
+  "contact_number": "+123 456 7890",
+  "whatsapp": "WhatsApp",
+  "language": "Language",
+
+  "heroSection": {
+    "hero_title": "We Offer The Best Medical Internship Programmes Abroad",
+    "hero_description": "Join the leading medical internship programmes designed to provide hands-on experience in top hospitals across the globe. Start your journey today with professional guidance every step of the way.",
+    "cta_button": "Free Consultation"
+  },
+
+  "success_stories": {
+    "heading": "Our Success Stories",
+    "story1": "15+ Years Of Experience Organising Successful Medical Programmes",
+    "story2": "100 + Medical Interns Have Been Sent Abroad And Trained By Renowned Medical Experts",
+    "story3": "100% Fast And Guarented Visa Application Services"
+  },
+
+  "requestForm": {
+    "heading": "Submit the request form to receive complimentary consultation now",
+    "description": "Fill out the form below and we’ll get back to you as soon as possible.",
+    "name": "Name",
+    "contact": "Contact Number",
+    "specialization": "Specialization of Interest",
+    "email": "Email",
+    "accept_terms": "I accept the",
+    "terms_conditions": "terms and conditions",
+    "submit": "Submit",
+    "success_message": "Form submitted successfully!",
+    "error_message": "Failed to submit the form. Please try again.",
+    "network_error_message": "Network error! Please check your connection."
+
+  },
+
+  "feedbackVideo": {
+    "heading": "What Our Participants Say",
+    "subheading": "You're welcome to network with our interns to learn further about us"
+  },
+
+  "process": {
+    "heading": "HOW DO WE WORK",
+    "subheading": "Easy To Join",
+    "steps": [
+      {
+        "title": "Step 1",
+        "description": "Sign up for our complimentary consultation"
+      },
+      {
+        "title": "Step 2",
+        "description": "Fill up our application form and let us know the hospital and specialization of your choice"
+      },
+      {
+        "title": "Step 3",
+        "description": "Receive feedback from our internship specialist and proceed with payment"
+      },
+      {
+        "title": "Step 4",
+        "description": "Our team will proceed with your documentation process"
+      },
+      {
+        "title": "Step 5",
+        "description": "We will assist you to ensure successful completion of your desired fellowship program"
+      }
+    ]
+  },
+
+  "programs": {
+    "heading": "List Of Hospitals Where Firmsts Fellowship Programs Are Conducted",
+    "locations": [
+      {
+        "title": "INDIA",
+        "points": [
+          "UCMS-DELHI",
+          "AMRITA HOSPITAL-KOCHI",
+          "AMRITA HOSPITAL-FARIDABAD",
+          "TATA MEDICAL CENTRE-CALCUTTA",
+          "CACHAR CANCER CENTRE-SILCHAR, ASSAM"
+        ],
+        "image": "https://static.wixstatic.com/media/df6cc5_94c995f2df1449eaa6e87d1fd3dcdfb9~mv2.jpg"
+      },
+      {
+        "title": "HUNGARY",
+        "points": [
+          "DUNA MEDICAL CENTRE-BUDAPEST",
+          "UNIVERSITY OF SZEGED-SZEGED"
+        ],
+        "image": "https://static.wixstatic.com/media/df6cc5_1ae2cac12c844e84b05678d8e07f3740~mv2.jpg"
+      }
+    ]
+  },
+
+  "LoginPage": {
+    "title": "Admin Login",
+    "emailLabel": "Email Address:",
+    "emailPlaceholder": "Enter your email",
+    "passwordLabel": "Password:",
+    "passwordPlaceholder": "Enter your password",
+    "loginButton": "Login",
+    "loginSuccess": "Login successful! Redirecting...",
+    "loginError": "Invalid login credentials!",
+    "loginFailed": "An error occurred. Please try again."
+  },
+
+
+    "userDetails": {
+    "header": "User Details",
+    "userInformation": "User Information",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "specialization": "Specialization",
+    "status": "Status",
+    "completed": "Completed",
+    "pending": "Pending",
+    "uncontacted": "Uncontacted",
+    "notes": "Notes",
+    "edit": "Edit",
+    "save": "Save",
+    "cancel": "Cancel",
+    "deleteUser": "Delete User",
+    "loading": "Loading user details...",
+    "successMessage": "Changes saved successfully!",
+    "errorMessage": "Failed to save changes.",
+    "deleteSuccess": "User deleted successfully!",
+    "deleteFail": "Failed to delete user."
+  },
+
+
+  "dashboard": {
+    "title": "User Dashboard",
+    "searchPlaceholder": "🔍 Search by name, email, or phone",
+    "allStatus": "All Status",
+    "completed": "Completed",
+    "pending": "Pending",
+    "uncontacted": "Uncontacted",
+    "status": "Status",
+    "noUsers": "No users found or failed to load users."
+  }
+  
+}

@@ -1,0 +1,140 @@
+/* General Section Styling */
+.programs-section {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #f4f4f4;
+    
+  }
+  
+  .programs-heading {
+    font-size: 32px;
+    font-weight: bold;
+    color: #00295f;
+    margin-bottom: 40px;
+  }
+  
+  /* Ensure Each Carousel Item is a Row with Two Columns */
+  .carousel-item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    background: white;
+    border-radius: 10px;
+    margin-bottom: 50px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    
+  }
+  
+  /* Left Column - Content */
+  .carousel-content {
+    width: 60%;
+    text-align: left;
+    padding: 20px 40px;
+  }
+  
+  .carousel-content h3 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #00295f;
+    margin-bottom: 10px;
+  }
+  
+  .carousel-content p {
+    font-size: 18px;
+    color: #555;
+    margin-bottom: 15px;
+  }
+  
+  /* List of Points */
+  .program-points {
+    list-style-type: disc;
+    padding-left: 20px;
+    margin: 10px 0;
+  }
+  
+  .program-points li {
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 8px;
+  }
+  
+  /* Right Column - Image */
+  .carousel-image {
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .carousel-image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    object-fit: cover;
+    border-radius: 0px 10px 10px 0px;
+  }
+  
+  /* Button Styling */
+  .program-btn {
+    margin-top: 15px;
+    background-color: #d45e33;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  
+  .program-btn:hover {
+    background-color: #b94f2c;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 1024px) {
+    .carousel-item {
+      flex-direction: column;
+      text-align: center;
+    }
+  
+    .carousel-content {
+      width: 100%;
+      margin-bottom: 20px;
+    }
+  
+    .carousel-image {
+      width: 100%;
+    }
+  
+    .carousel-image img {
+      width: 100%;
+    }
+    .programs-section {
+        text-align: center;
+        padding: 40px 20px;
+        background-color: #f4f4f4;
+        
+      }
+      
+      .programs-heading {
+        font-size: 26px;
+        font-weight: bold;
+        color: #00295f;
+        margin-bottom: 40px;
+      }
+      .carousel-item{
+        margin-bottom: 10px;
+        
+      }
+      .carousel-image img {
+        border-radius: 0px 0px 10px 10px;
+      }
+  }
+  
